@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-workshop",
+  "version": "1.0.0",
+  "description": "Next.js Workshop by Ilker Guller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nextjs-workshop"
+  },
+  "keywords": [
+    "next.js",
+    "workshop",
+    "node.js",
+    "react",
+    "express"
+  ],
+  "author": "Ilker Guller",
+  "license": "MIT"
+}
